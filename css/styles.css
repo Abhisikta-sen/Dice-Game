@@ -1,0 +1,39 @@
+body{
+  background-color: #ddf3f5;
+}
+.container{
+  text-align: center;
+
+}
+h1{
+  font-family: 'Holtwood One SC', serif;
+  font-size: 6rem;
+  color: #ff5200;
+  margin: 30px;
+  padding-top: 10%;
+  }
+.player{
+  display: inline-block;
+}
+h2{
+  font-family: 'Dancing Script', cursive;
+}
+h3{
+  font-family: 'Kalam', cursive;
+  font-weight: bold;
+  color: #ca5116;
+}
+.dice-img{
+  height: 50%;
+  width: 50%;
+}
+.btn{
+  /* display: inline-block; */
+  margin-top: 20px;
+
+}
+footer{
+  text-align: center;
+  font-family: 'Kalam', cursive;
+  padding: 10%;
+}
